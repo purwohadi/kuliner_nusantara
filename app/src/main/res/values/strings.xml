@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Kuliner Nusantara</string>
+    <string name="kuliner_name">Judul</string>
+    <string name="kuliner_deskripsi">Deskripsi</string>
+    <string name="about">About</string>
+    <string name="home">Home</string>
+    <string name="namaku">Purwo Hadikusumo</string>
+    <string name="email">purwo_ok@yahoo.com</string>
+    <string name="telp">081932830205</string>
+</resources>

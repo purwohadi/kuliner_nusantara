@@ -1,0 +1,189 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/purwohadi/AndroidStudioProjects/dicoding/KulinerNusantara/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/purwohadi/AndroidStudioProjects/dicoding/KulinerNusantara/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/purwohadi/AndroidStudioProjects/dicoding/KulinerNusantara/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/purwohadi/AndroidStudioProjects/dicoding/KulinerNusantara/app/src/main/AndroidManifest.xml:2:1-26:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/purwohadi/.gradle/caches/transforms-2/files-2.1/c20e6adb02ef8c2cbfca9caeba273757/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/purwohadi/.gradle/caches/transforms-2/files-2.1/8b4368c0fa4ea4026c43300f185a7a7a/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/purwohadi/.gradle/caches/transforms-2/files-2.1/cc8c5e6c692d3f32f377062eea6c6891/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/purwohadi/.gradle/caches/transforms-2/files-2.1/9159bb3d66baccfd79c11ac7cf08fab5/AndroidManifest.xml:17:1-22:12
+MERGED from [de.hdodenhof:circleimageview:3.0.0] /Users/purwohadi/.gradle/caches/transforms-2/files-2.1/664ce0286b0a9ffd812419b4cf6bebb2/AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /Users/purwohadi/.gradle/caches/transforms-2/files-2.1/981effc4da98ab296dbacdf8f31fb18b/AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/purwohadi/.gradle/caches/transforms-2/files-2.1/243fa2cdcfb574b86f2767f961423d4d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/purwohadi/.gradle/caches/transforms-2/files-2.1/81d3e97590d18137c65e9c74c1263b62/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/purwohadi/.gradle/caches/transforms-2/files-2.1/55c9301ff18fe76d2be7e3a6330237eb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/purwohadi/.gradle/caches/transforms-2/files-2.1/f303c74646de9449a6218cce334244e9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/purwohadi/.gradle/caches/transforms-2/files-2.1/5f37fdbaa36f0faad32c3e172d30a22a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/purwohadi/.gradle/caches/transforms-2/files-2.1/2cc57e497cc99de21ccc4d233fcd3fa3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/purwohadi/.gradle/caches/transforms-2/files-2.1/a96f16f880a2d07893bc6cc4c9498c4b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/purwohadi/.gradle/caches/transforms-2/files-2.1/1157e83a29099945b0e1225233a0c55f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/purwohadi/.gradle/caches/transforms-2/files-2.1/0f349f0f46d3c7c4665031bb69d392f4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/purwohadi/.gradle/caches/transforms-2/files-2.1/7969e2d391dda7b0c72936deef50980c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/purwohadi/.gradle/caches/transforms-2/files-2.1/2bc6e2d589db7f1a4f04febea8b42299/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/purwohadi/.gradle/caches/transforms-2/files-2.1/6b38f1636b1b9302c56eef2b7ce80ee8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/purwohadi/.gradle/caches/transforms-2/files-2.1/38c365410a36994f67200ccb08354622/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /Users/purwohadi/.gradle/caches/transforms-2/files-2.1/134d6856e89f1ab7609018ed9a215cb0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/purwohadi/.gradle/caches/transforms-2/files-2.1/c67a1de2818e0ff6ac15c08e5bd3c82e/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/purwohadi/.gradle/caches/transforms-2/files-2.1/7f211bedd4faa119dd729a5dbbb84799/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /Users/purwohadi/.gradle/caches/transforms-2/files-2.1/70c0e652e3cdb468014a818a438fa16a/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/purwohadi/.gradle/caches/transforms-2/files-2.1/9a6548aac96edcec1dd4d7bbc07075f1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/purwohadi/.gradle/caches/transforms-2/files-2.1/edea9aa288f8f0fbca02beedc0aa108b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/purwohadi/.gradle/caches/transforms-2/files-2.1/386b019b5cd7f1b71bf1be5b31395542/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/purwohadi/.gradle/caches/transforms-2/files-2.1/adaab0062c5770bb837742e1b42a8bac/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/purwohadi/.gradle/caches/transforms-2/files-2.1/cfa247e5d4997f81392fabfdc390298c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/purwohadi/.gradle/caches/transforms-2/files-2.1/c965c3ed919a171fb6073b42c1833f75/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/purwohadi/.gradle/caches/transforms-2/files-2.1/3e2eefe47e6ce6233af6588f19342644/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/purwohadi/.gradle/caches/transforms-2/files-2.1/11bb060ad7ee65126e551a08af16705f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/purwohadi/.gradle/caches/transforms-2/files-2.1/5b4bed33632e8a57d2b5c68c2b1b377f/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/purwohadi/AndroidStudioProjects/dicoding/KulinerNusantara/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/purwohadi/AndroidStudioProjects/dicoding/KulinerNusantara/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/purwohadi/AndroidStudioProjects/dicoding/KulinerNusantara/app/src/main/AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from /Users/purwohadi/AndroidStudioProjects/dicoding/KulinerNusantara/app/src/main/AndroidManifest.xml:3:5-45
+		INJECTED from /Users/purwohadi/AndroidStudioProjects/dicoding/KulinerNusantara/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/purwohadi/AndroidStudioProjects/dicoding/KulinerNusantara/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/purwohadi/AndroidStudioProjects/dicoding/KulinerNusantara/app/src/main/AndroidManifest.xml
+		ADDED from /Users/purwohadi/AndroidStudioProjects/dicoding/KulinerNusantara/app/src/main/AndroidManifest.xml:2:1-26:12
+		INJECTED from /Users/purwohadi/AndroidStudioProjects/dicoding/KulinerNusantara/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/purwohadi/AndroidStudioProjects/dicoding/KulinerNusantara/app/src/main/AndroidManifest.xml
+		ADDED from /Users/purwohadi/AndroidStudioProjects/dicoding/KulinerNusantara/app/src/main/AndroidManifest.xml:2:1-26:12
+		INJECTED from /Users/purwohadi/AndroidStudioProjects/dicoding/KulinerNusantara/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/purwohadi/AndroidStudioProjects/dicoding/KulinerNusantara/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/purwohadi/AndroidStudioProjects/dicoding/KulinerNusantara/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /Users/purwohadi/AndroidStudioProjects/dicoding/KulinerNusantara/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /Users/purwohadi/AndroidStudioProjects/dicoding/KulinerNusantara/app/src/main/AndroidManifest.xml:7:5-24:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/purwohadi/.gradle/caches/transforms-2/files-2.1/8b4368c0fa4ea4026c43300f185a7a7a/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/purwohadi/.gradle/caches/transforms-2/files-2.1/8b4368c0fa4ea4026c43300f185a7a7a/AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:3.0.0] /Users/purwohadi/.gradle/caches/transforms-2/files-2.1/664ce0286b0a9ffd812419b4cf6bebb2/AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:3.0.0] /Users/purwohadi/.gradle/caches/transforms-2/files-2.1/664ce0286b0a9ffd812419b4cf6bebb2/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /Users/purwohadi/.gradle/caches/transforms-2/files-2.1/981effc4da98ab296dbacdf8f31fb18b/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /Users/purwohadi/.gradle/caches/transforms-2/files-2.1/981effc4da98ab296dbacdf8f31fb18b/AndroidManifest.xml:10:5-20
+MERGED from [androidx.core:core:1.0.1] /Users/purwohadi/.gradle/caches/transforms-2/files-2.1/134d6856e89f1ab7609018ed9a215cb0/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /Users/purwohadi/.gradle/caches/transforms-2/files-2.1/134d6856e89f1ab7609018ed9a215cb0/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/purwohadi/.gradle/caches/transforms-2/files-2.1/c67a1de2818e0ff6ac15c08e5bd3c82e/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/purwohadi/.gradle/caches/transforms-2/files-2.1/c67a1de2818e0ff6ac15c08e5bd3c82e/AndroidManifest.xml:22:5-23:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /Users/purwohadi/.gradle/caches/transforms-2/files-2.1/70c0e652e3cdb468014a818a438fa16a/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /Users/purwohadi/.gradle/caches/transforms-2/files-2.1/70c0e652e3cdb468014a818a438fa16a/AndroidManifest.xml:9:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /Users/purwohadi/.gradle/caches/transforms-2/files-2.1/134d6856e89f1ab7609018ed9a215cb0/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /Users/purwohadi/AndroidStudioProjects/dicoding/KulinerNusantara/app/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /Users/purwohadi/AndroidStudioProjects/dicoding/KulinerNusantara/app/src/main/AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from /Users/purwohadi/AndroidStudioProjects/dicoding/KulinerNusantara/app/src/main/AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from /Users/purwohadi/AndroidStudioProjects/dicoding/KulinerNusantara/app/src/main/AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from /Users/purwohadi/AndroidStudioProjects/dicoding/KulinerNusantara/app/src/main/AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from /Users/purwohadi/AndroidStudioProjects/dicoding/KulinerNusantara/app/src/main/AndroidManifest.xml:13:9-40
+	android:usesCleartextTraffic
+		ADDED from /Users/purwohadi/AndroidStudioProjects/dicoding/KulinerNusantara/app/src/main/AndroidManifest.xml:14:9-44
+activity#com.purwohadi.kulinernusantara.DetailActivity
+ADDED from /Users/purwohadi/AndroidStudioProjects/dicoding/KulinerNusantara/app/src/main/AndroidManifest.xml:15:9-61
+	android:name
+		ADDED from /Users/purwohadi/AndroidStudioProjects/dicoding/KulinerNusantara/app/src/main/AndroidManifest.xml:15:19-49
+activity#com.purwohadi.kulinernusantara.MainActivity
+ADDED from /Users/purwohadi/AndroidStudioProjects/dicoding/KulinerNusantara/app/src/main/AndroidManifest.xml:16:9-22:20
+	android:name
+		ADDED from /Users/purwohadi/AndroidStudioProjects/dicoding/KulinerNusantara/app/src/main/AndroidManifest.xml:16:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/purwohadi/AndroidStudioProjects/dicoding/KulinerNusantara/app/src/main/AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from /Users/purwohadi/AndroidStudioProjects/dicoding/KulinerNusantara/app/src/main/AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from /Users/purwohadi/AndroidStudioProjects/dicoding/KulinerNusantara/app/src/main/AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/purwohadi/AndroidStudioProjects/dicoding/KulinerNusantara/app/src/main/AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from /Users/purwohadi/AndroidStudioProjects/dicoding/KulinerNusantara/app/src/main/AndroidManifest.xml:20:27-74
+activity#com.purwohadi.kulinernusantara.AboutActivity
+ADDED from /Users/purwohadi/AndroidStudioProjects/dicoding/KulinerNusantara/app/src/main/AndroidManifest.xml:23:9-51
+	android:name
+		ADDED from /Users/purwohadi/AndroidStudioProjects/dicoding/KulinerNusantara/app/src/main/AndroidManifest.xml:23:19-48
+uses-sdk
+INJECTED from /Users/purwohadi/AndroidStudioProjects/dicoding/KulinerNusantara/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/purwohadi/AndroidStudioProjects/dicoding/KulinerNusantara/app/src/main/AndroidManifest.xml
+INJECTED from /Users/purwohadi/AndroidStudioProjects/dicoding/KulinerNusantara/app/src/main/AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/purwohadi/.gradle/caches/transforms-2/files-2.1/c20e6adb02ef8c2cbfca9caeba273757/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/purwohadi/.gradle/caches/transforms-2/files-2.1/c20e6adb02ef8c2cbfca9caeba273757/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/purwohadi/.gradle/caches/transforms-2/files-2.1/8b4368c0fa4ea4026c43300f185a7a7a/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/purwohadi/.gradle/caches/transforms-2/files-2.1/8b4368c0fa4ea4026c43300f185a7a7a/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/purwohadi/.gradle/caches/transforms-2/files-2.1/cc8c5e6c692d3f32f377062eea6c6891/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/purwohadi/.gradle/caches/transforms-2/files-2.1/cc8c5e6c692d3f32f377062eea6c6891/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/purwohadi/.gradle/caches/transforms-2/files-2.1/9159bb3d66baccfd79c11ac7cf08fab5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/purwohadi/.gradle/caches/transforms-2/files-2.1/9159bb3d66baccfd79c11ac7cf08fab5/AndroidManifest.xml:20:5-44
+MERGED from [de.hdodenhof:circleimageview:3.0.0] /Users/purwohadi/.gradle/caches/transforms-2/files-2.1/664ce0286b0a9ffd812419b4cf6bebb2/AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:3.0.0] /Users/purwohadi/.gradle/caches/transforms-2/files-2.1/664ce0286b0a9ffd812419b4cf6bebb2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /Users/purwohadi/.gradle/caches/transforms-2/files-2.1/981effc4da98ab296dbacdf8f31fb18b/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /Users/purwohadi/.gradle/caches/transforms-2/files-2.1/981effc4da98ab296dbacdf8f31fb18b/AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/purwohadi/.gradle/caches/transforms-2/files-2.1/243fa2cdcfb574b86f2767f961423d4d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/purwohadi/.gradle/caches/transforms-2/files-2.1/243fa2cdcfb574b86f2767f961423d4d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/purwohadi/.gradle/caches/transforms-2/files-2.1/81d3e97590d18137c65e9c74c1263b62/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/purwohadi/.gradle/caches/transforms-2/files-2.1/81d3e97590d18137c65e9c74c1263b62/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/purwohadi/.gradle/caches/transforms-2/files-2.1/55c9301ff18fe76d2be7e3a6330237eb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/purwohadi/.gradle/caches/transforms-2/files-2.1/55c9301ff18fe76d2be7e3a6330237eb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/purwohadi/.gradle/caches/transforms-2/files-2.1/f303c74646de9449a6218cce334244e9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/purwohadi/.gradle/caches/transforms-2/files-2.1/f303c74646de9449a6218cce334244e9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/purwohadi/.gradle/caches/transforms-2/files-2.1/5f37fdbaa36f0faad32c3e172d30a22a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/purwohadi/.gradle/caches/transforms-2/files-2.1/5f37fdbaa36f0faad32c3e172d30a22a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/purwohadi/.gradle/caches/transforms-2/files-2.1/2cc57e497cc99de21ccc4d233fcd3fa3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/purwohadi/.gradle/caches/transforms-2/files-2.1/2cc57e497cc99de21ccc4d233fcd3fa3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/purwohadi/.gradle/caches/transforms-2/files-2.1/a96f16f880a2d07893bc6cc4c9498c4b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/purwohadi/.gradle/caches/transforms-2/files-2.1/a96f16f880a2d07893bc6cc4c9498c4b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/purwohadi/.gradle/caches/transforms-2/files-2.1/1157e83a29099945b0e1225233a0c55f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/purwohadi/.gradle/caches/transforms-2/files-2.1/1157e83a29099945b0e1225233a0c55f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/purwohadi/.gradle/caches/transforms-2/files-2.1/0f349f0f46d3c7c4665031bb69d392f4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/purwohadi/.gradle/caches/transforms-2/files-2.1/0f349f0f46d3c7c4665031bb69d392f4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/purwohadi/.gradle/caches/transforms-2/files-2.1/7969e2d391dda7b0c72936deef50980c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/purwohadi/.gradle/caches/transforms-2/files-2.1/7969e2d391dda7b0c72936deef50980c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/purwohadi/.gradle/caches/transforms-2/files-2.1/2bc6e2d589db7f1a4f04febea8b42299/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/purwohadi/.gradle/caches/transforms-2/files-2.1/2bc6e2d589db7f1a4f04febea8b42299/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/purwohadi/.gradle/caches/transforms-2/files-2.1/6b38f1636b1b9302c56eef2b7ce80ee8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/purwohadi/.gradle/caches/transforms-2/files-2.1/6b38f1636b1b9302c56eef2b7ce80ee8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/purwohadi/.gradle/caches/transforms-2/files-2.1/38c365410a36994f67200ccb08354622/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/purwohadi/.gradle/caches/transforms-2/files-2.1/38c365410a36994f67200ccb08354622/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/purwohadi/.gradle/caches/transforms-2/files-2.1/134d6856e89f1ab7609018ed9a215cb0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/purwohadi/.gradle/caches/transforms-2/files-2.1/134d6856e89f1ab7609018ed9a215cb0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/purwohadi/.gradle/caches/transforms-2/files-2.1/c67a1de2818e0ff6ac15c08e5bd3c82e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/purwohadi/.gradle/caches/transforms-2/files-2.1/c67a1de2818e0ff6ac15c08e5bd3c82e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/purwohadi/.gradle/caches/transforms-2/files-2.1/7f211bedd4faa119dd729a5dbbb84799/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/purwohadi/.gradle/caches/transforms-2/files-2.1/7f211bedd4faa119dd729a5dbbb84799/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /Users/purwohadi/.gradle/caches/transforms-2/files-2.1/70c0e652e3cdb468014a818a438fa16a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /Users/purwohadi/.gradle/caches/transforms-2/files-2.1/70c0e652e3cdb468014a818a438fa16a/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/purwohadi/.gradle/caches/transforms-2/files-2.1/9a6548aac96edcec1dd4d7bbc07075f1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/purwohadi/.gradle/caches/transforms-2/files-2.1/9a6548aac96edcec1dd4d7bbc07075f1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/purwohadi/.gradle/caches/transforms-2/files-2.1/edea9aa288f8f0fbca02beedc0aa108b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/purwohadi/.gradle/caches/transforms-2/files-2.1/edea9aa288f8f0fbca02beedc0aa108b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/purwohadi/.gradle/caches/transforms-2/files-2.1/386b019b5cd7f1b71bf1be5b31395542/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/purwohadi/.gradle/caches/transforms-2/files-2.1/386b019b5cd7f1b71bf1be5b31395542/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/purwohadi/.gradle/caches/transforms-2/files-2.1/adaab0062c5770bb837742e1b42a8bac/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/purwohadi/.gradle/caches/transforms-2/files-2.1/adaab0062c5770bb837742e1b42a8bac/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/purwohadi/.gradle/caches/transforms-2/files-2.1/cfa247e5d4997f81392fabfdc390298c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/purwohadi/.gradle/caches/transforms-2/files-2.1/cfa247e5d4997f81392fabfdc390298c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/purwohadi/.gradle/caches/transforms-2/files-2.1/c965c3ed919a171fb6073b42c1833f75/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/purwohadi/.gradle/caches/transforms-2/files-2.1/c965c3ed919a171fb6073b42c1833f75/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/purwohadi/.gradle/caches/transforms-2/files-2.1/3e2eefe47e6ce6233af6588f19342644/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/purwohadi/.gradle/caches/transforms-2/files-2.1/3e2eefe47e6ce6233af6588f19342644/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/purwohadi/.gradle/caches/transforms-2/files-2.1/11bb060ad7ee65126e551a08af16705f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/purwohadi/.gradle/caches/transforms-2/files-2.1/11bb060ad7ee65126e551a08af16705f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/purwohadi/.gradle/caches/transforms-2/files-2.1/5b4bed33632e8a57d2b5c68c2b1b377f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/purwohadi/.gradle/caches/transforms-2/files-2.1/5b4bed33632e8a57d2b5c68c2b1b377f/AndroidManifest.xml:20:5-44
+INJECTED from /Users/purwohadi/AndroidStudioProjects/dicoding/KulinerNusantara/app/src/main/AndroidManifest.xml
+INJECTED from /Users/purwohadi/AndroidStudioProjects/dicoding/KulinerNusantara/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/purwohadi/AndroidStudioProjects/dicoding/KulinerNusantara/app/src/main/AndroidManifest.xml
+		ADDED from /Users/purwohadi/AndroidStudioProjects/dicoding/KulinerNusantara/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/purwohadi/AndroidStudioProjects/dicoding/KulinerNusantara/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/purwohadi/AndroidStudioProjects/dicoding/KulinerNusantara/app/src/main/AndroidManifest.xml
+		ADDED from /Users/purwohadi/AndroidStudioProjects/dicoding/KulinerNusantara/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/purwohadi/AndroidStudioProjects/dicoding/KulinerNusantara/app/src/main/AndroidManifest.xml
