@@ -1,2 +1,2 @@
-# kuliner_nusantara
+# Kuliner Nusantara
 Aplikasi Android Kuliner Nusantara
